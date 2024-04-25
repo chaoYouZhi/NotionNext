@@ -34,9 +34,9 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！龙行国际',
+    '你好！这里是龙行集运',
     '🔍 分享与热心帮助',
-    '🤝 空派欧洲与英国',
+    '🛫 空派欧洲与英国',
     '🏃 脚踏实地行动派',
     '🏠 AI效率小能手',
     '🤖️ 数码科技爱好者',
@@ -106,9 +106,9 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_2: '加入我们的Whats社群',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://loongx.ing',
+  HEO_SOCIAL_CARD_URL: 'https://chat.whatsapp.com/K7weFQHh7R4Hh5QdcvgJuL',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
