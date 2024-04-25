@@ -12,20 +12,20 @@ const CONFIG = {
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: false,
   // 博客主体区左右侧组件颠倒位置
-  HEO_HERO_BODY_REVERSE: true,
+  HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '行业资讯',
   HEO_HERO_TITLE_2: '下单流程',
   HEO_HERO_TITLE_3: 'LOONGX.ING',
-  HEO_HERO_TITLE_4: '飞书链接',
+  HEO_HERO_TITLE_4: 'loongx',
   HEO_HERO_TITLE_5: '喜欢您来',
   HEO_HERO_TITLE_LINK: 'https://loongx.ing',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '近期优惠', url: '/tag/近期优惠' },
+  HEO_HERO_CATEGORY_2: { title: '近期优惠', url: '/tag/近期优惠' },
+  HEO_HERO_CATEGORY_3: { title: '行业资讯', url: '/tag/行业资讯' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
