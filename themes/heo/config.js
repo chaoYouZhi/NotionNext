@@ -106,9 +106,9 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的Whats社群',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://chat.whatsapp.com/K7weFQHh7R4Hh5QdcvgJuL',
+  HEO_SOCIAL_CARD_TITLE_2: '加入我们的discord社群',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入龙行工作室',
+  HEO_SOCIAL_CARD_URL: 'https://discord.gg/hdWhaTgX',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
