@@ -104,7 +104,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '联系我们',
   HEO_SOCIAL_CARD_TITLE_2: '使用我们专业可靠的货代服务',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
