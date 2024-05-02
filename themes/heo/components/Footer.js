@@ -28,7 +28,7 @@ const Footer = ({ title }) => {
             <div id='footer-bottom' className='w-full h-20 flex flex-col p-3 lg:flex-row justify-between px-6 items-center bg-[#f1f3f7] dark:bg-[#30343f]'>
 
                 <div id='footer-bottom-left'>
-                    Loongx国际集运 2024
+                    LOONGX 国际集运 © 2023 - 2024
                 </div>
 
             <div id='footer-bottom-right'>
