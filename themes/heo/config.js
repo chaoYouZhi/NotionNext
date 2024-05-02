@@ -49,7 +49,7 @@ const CONFIG = {
     {
       title_1: 'ins',
       img_1: '/images/heo/1.webp',
-      color_1: '#989bf8',
+      color_1: '#ffffff',
       title_2: 'dy',
       img_2: '/images/heo/dy.webp',
       color_2: '#ffffff'
@@ -57,10 +57,10 @@ const CONFIG = {
     {
       title_1: 'h',
       img_1: '/images/heo/h.webp',
-      color_1: '#57b6e6',
+      color_1: '#ffffff',
       title_2: 'jind',
       img_2: '/images/heo/jind.webp',
-      color_2: '#4082c3'
+      color_2: '#ffffff'
     },
     {
       title_1: 'loongx',
@@ -73,10 +73,10 @@ const CONFIG = {
     {
       title_1: 't',
       img_1: '/images/heo/t.webp',
-      color_1: '#eb6840',
+      color_1: '#ffffff',
       title_2: 'u2',
       img_2: '/images/heo/u2.webp',
-      color_2: '#8f55ba'
+      color_2: '#ffffff'
     },
     {
       title_1: 'illustrator',
