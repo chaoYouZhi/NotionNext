@@ -22,7 +22,7 @@ const SocialButton = () => {
       </a>}
       {siteConfig('CONTACT_WEIBO') && (
       <a target='_blank' rel='noreferrer' title={'feishu'} href={siteConfig('CONTACT_WEIBO')}>
-        <img src='/images/heo/fs.png' alt='feishu' className='transform hover:scale-125 duration-150 dark:hover:text-indigo-400 hover:text-indigo-600' style={{ width: '24px', height: '24px' }}/>
+        <img src='/images/heo/fs.png' alt='feishu' className='transform hover:scale-125 duration-150 dark:hover:text-indigo-400 hover:text-indigo-600' style={{ width: '48px', height: '48px' }}/>
       </a>)}
       {siteConfig('CONTACT_INSTAGRAM') && <a target='_blank' rel='noreferrer' title={'instagram'} href={siteConfig('CONTACT_INSTAGRAM')} >
         <i className='transform hover:scale-125 duration-150 fab fa-instagram dark:hover:text-indigo-400 hover:text-indigo-600'/>
