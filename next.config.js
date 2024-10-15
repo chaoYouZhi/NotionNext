@@ -186,4 +186,22 @@ const nextConfig = {
   }
 }
 
+const withBundleAnalyzer = require('@next/bundle-analyzer')({
+  enabled: process.env.ANALYZE === 'true',
+})
+
+const nextConfig = {
+  // ... 你的其他 Next.js 配置
+
+  async rewrites() {
+    return [
+      {
+        source: '/feed',
+        destination: '/api/feed?feedId=:feedId&userId=:userId',
+      },
+    ]
+  },
+}
+
+// 组合配置
 module.exports = withBundleAnalyzer(nextConfig)
